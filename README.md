@@ -1,0 +1,2 @@
+# DegitalRestaurants
+Basic Java project
